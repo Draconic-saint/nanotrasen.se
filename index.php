@@ -27,6 +27,10 @@
         <div style="margin: 0; padding: 0;">
             <h2 style="height: 10px">Paradise</h2>
         </div>
+        <div style="font-size: 150%">
+            <p>New to Paradise Station or Space Station 13? <br>
+            <a href="http://nanotrasen.se/wiki/index.php/Guide_for_beginners">Read the Guide for Beginners!</a></p>
+        </div>
         <div>
             <a href="http://nanotrasen.se/phpBB3">Paradise Forums</a>
         </div>
