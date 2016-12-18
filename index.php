@@ -12,7 +12,7 @@
     <nav>
     
        <ul>
-           <li id ="logo">  <a  href="index.html"><img src="Images/Paradise2icon.PNG" alt="server logo"></a></li>
+           <li id ="logo">  <a href="index.html"><img src="Images/Paradise2icon.PNG" alt="server logo"></a></li>
            <li id="server"> <a href="byond://nanotrasen.se:6666">Server</a></li>
            <li id="patreon"><a href="https://www.patreon.com/ParadiseStation">Patreon</a></li>
            <li id="wiki">   <a href="https://nanotrasen.se/wiki/index.php/Main_Page">wiki</a></li>
@@ -55,7 +55,7 @@
        
    </main>
    </div>
-   <footer><p>Licences, copyright and other guff like icons for patreon/discord/git goes here.</p></footer>
+   <footer><p>This webpage is licensed under the MIT License (MIT).</p></footer>
    
 </body>
 </html>
