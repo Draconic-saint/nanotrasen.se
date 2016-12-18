@@ -12,7 +12,7 @@
     <nav>
     
        <ul>
-           <li id ="logo"><a  href="index.html"><img src="Images/Paradise2icon.PNG" alt="server logo"></a></li>
+           <li id ="logo">  <a  href="index.html"><img src="Images/Paradise2icon.PNG" alt="server logo"></a></li>
            <li id="server"> <a href="byond://nanotrasen.se:6666">Server</a></li>
            <li id="patreon"><a href="https://www.patreon.com/ParadiseStation">Patreon</a></li>
            <li id="wiki">   <a href="https://nanotrasen.se/wiki/index.php/Main_Page">wiki</a></li>
@@ -29,17 +29,19 @@
                 No idea what space station 13 is? Check out our new player guide <a href="https://nanotrasen.se/wiki/index.php/Guide_for_beginners"> here!</a>
             </p>
             <p>
-                We like to pride ourselves that the general playstyle on our server is a healthy mix or RP & action. So join us on the cyberiad, and try to stay alive, atleast for a while.
+               We like to pride ourselves that the general playstyle on our server is a healthy mix of RP & Action. Come join us on the Cyberiad, and try to stay alive, at least for a while.
             </p>
        </div>
         <ul>
                 <li>
                    <h2>Forums & discord</h2>
-                   <p>Throughout the years, we've built a solid community around our server, with an active forum and a public discord server.</p> <p> The <a href="https://nanotrasen.se/phpBB3/">forums</a> are our official discussion space, where everthing can be document easily, while the <a href="https://discord.gg/nuqD478">discord</a> is a more informal space where players and admins can hang out.</p>
+                   <p>Throughout the years, we've built a solid community around our server, with an active forum and a public discord server.</p>
+                   <p>The <a href="https://nanotrasen.se/phpBB3/">forums</a> are our official discussion space, where everything can be document easily.</p> 
+                   <p>The <a href="https://discord.gg/nuqD478">discord</a> is a more informal space where players and admins can hang out.</p>
                 </li>
                 <li>
                    <h2>Patreon</h2>
-                   <p>Running a server costs money sadly. Previously we accepted donations to keep that server running. Now we've set up a patreon for that purpose. It also allows us to give thanks to those who make it possible.</p><p>You can find out more about the patron tiers on our <a href="https://www.patreon.com/ParadiseStation">Patreon</a> page!</p>
+                   <p>Sadly, running a server is not free. Previously we accepted donations to keep that server running. Now we've set up a Patreon for that purpose. It also allows us to provide various cosmetic bonuses as a way of thanking our patrons.</p><p>You can find out more about the patron tiers on our <a href="https://www.patreon.com/ParadiseStation">Patreon</a> page!</p>
                 </li>
                 <li>
                    <h2>Wiki</h2>
